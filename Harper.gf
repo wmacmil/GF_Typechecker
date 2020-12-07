@@ -2,7 +2,6 @@ abstract Harper = {
 
 
 
-
 cat
   Typ ;
   Var Typ ;
